@@ -28,5 +28,9 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Version [e.g. 2.0.1]
 
+**Trainer (please complete the following information):**
+- Trainer: [e.g. SmartControl 1]
+- Firmware Version [e.g. v2.1]
+
 **Additional context**
 Add any other context about the problem here.
