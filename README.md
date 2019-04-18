@@ -1,5 +1,5 @@
 # fit-android-issues
-Public Issue Tracker for the Android Kinetic Fit Mobile Application
+## Public Issue Tracker for the Android Kinetic Fit Mobile Application
 
 Please fill out a bug report *for each problem* you encounter. Before creating a report, you should first check the open issues and be certain that it has not already been reported. If it has, please comment with your own experience and the same information required as a new report.
 
