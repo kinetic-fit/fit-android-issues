@@ -1,5 +1,7 @@
 # Public Issue Tracker for the Android Kinetic Fit Mobile Application 2.x Beta
 
+![Kinetic Logo]
+(https://github.com/kinetic-fit/fit-android-issues/blob/master/kinetic_logo.png)
 ## Getting Started
 Thank you for your interest in helping make the Kinetic Fit even better. This private beta test ([opt in here](https://play.google.com/apps/testing/com.kinetic.fit)) will let us test our new version of the app before releasing it to everyone and allow us to smooth out any bugs that are found. For this beta test, we are looking for users who are frequent riders in the Kinetic App (2+ rides a week in Fit) and are willing to do the extra work required to test, report bugs to the issue tracker and work with our developers to reproduce and test fixes for any bugs that are found. Other lower frequency users are welcome to join the beta, but we are asking that anyone in the beta that experiences issues open an issue in the tracker and work with the dev team to fix the issues. We are committed to making Kinetic a better experience and are asking for the same commitment from our beta testers.
  
