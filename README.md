@@ -7,6 +7,10 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.3.0 (224) - Jan 30, 2020
+
+This update adds an overlay when connecting to a sensor to ensure all FTMS services have been processed and that the sensor is ready for changes or input/output. 
+
 ## App version 2.2.0 (223) - Jan 24, 2020
 
 This update removed subscription features from the app. These have been removed for the public beta and will be reintroduced once the app leaves beta.
