@@ -28,10 +28,10 @@ Please fill out a bug report *for each problem* you encounter. Before creating a
 We will do our issue communication here in order to track and organize our efforts on each issue and to avoid confusing issues. Any questions can be sent to kineticbeta@gmail.com or Direct Message to @lexicalninja here on GitHub.
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
-
-## App version 2.3.1 (225) - Jan 31, 202
+## App version 2.3.1 (225) - Feb 3, 2020
 
 This version fixes a bug on the Sensor Settings screen that always showed kph for speed sensor value, even if user is not metric.
+This also fixes a major crash when a user starts a Training Plan, as well as other UI fixes for the TP calendar view.
 
 ## App version 2.3.0 (224) - Jan 30, 2020
 
