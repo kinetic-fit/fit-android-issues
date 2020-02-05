@@ -29,7 +29,7 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
-## App version 2.3.2 (226) - Feb , 2020
+## App version 2.3.2 (226) - Feb 5, 2020
 
 This version cleans up issues that caused crashes in a small number of sessions. The majority of the bug fixes dealt with random single crashes that most likely occurred during a workout session.
 This version also fixes a bug that crashed users on the select category screen, and one that crashed users on the profile screen.
