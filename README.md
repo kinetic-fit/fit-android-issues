@@ -29,6 +29,12 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.3.3 (227) - Feb 20, 2020
+
+Some user's may be experiencing crashes when exporting to Strava or other apps. There is currently an issue in the app during deserialization causes a Concurrent Modification Exception. This version looks to either fix or significantly reduce those issues. 
+Fixes a bug on the sensor setting screen. If you tapped an icon to disconnect as a type of sensor, it would disconnect as that sensor, then immediately reconnect but leave the icon gray. which isnt very helpful. This should fix that.
+This version should fix a bug that causes users to get a "Kinetic Crashed" error when the app has been backgrounded and not in use.
+
 ## App version 2.3.2 (226) - Feb 5, 2020
 
 This version cleans up issues that caused crashes in a small number of sessions. The majority of the bug fixes dealt with random single crashes that most likely occurred during a workout session.
