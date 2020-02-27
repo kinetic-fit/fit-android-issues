@@ -29,9 +29,14 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.4.0 (229) - Feb 25, 2020
+
+This version updates the Garmin FIT library to fix upload errors to third-party sites.
+This version also fixes the issue where only one lap showed up on analysis and export of a workout. 
+
 ## App version 2.3.4 (228) - Feb 25, 2020
 
-This version looks to try and narrow down the cause f the errors mentioned in the 2.3.3 release notes 
+This version looks to try and narrow down the cause of the errors mentioned in the 2.3.3 release notes 
 It also attempts to fix a bug in Profile deserialization when syncing. 
 
 ## App version 2.3.3 (227) - Feb 20, 2020
