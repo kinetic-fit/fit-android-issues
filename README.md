@@ -29,6 +29,10 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.4.1 (230) - Feb 28, 2020
+
+This app version fixes an issue where the app data was missing a lap marker between the warmup and workout.
+
 ## App version 2.4.0 (229) - Feb 27, 2020
 
 This version updates the Garmin FIT library to fix upload errors to third-party sites.
