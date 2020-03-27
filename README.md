@@ -29,6 +29,14 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.5.2 (233) Mar 27, 2020
+Fixes a bug that caused some users to crash on startup after they migrated to beta
+Updates the fit file generator. 
+
+## App version 2.5.1 (232) - Mar 26, 2020
+
+There is an issue in the app where it crashes on data deserialization from the sensor data. This update adds a deep copy operation on the Session class to see if this helps. Users may or may not see any changes in their app perfomance.
+
 ## App version 2.5.0 (231) - Mar 26, 2020
 
 This app version fixes issues with devices that use the Cycling Power Profile. 
