@@ -29,6 +29,11 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.5.3 (234) - April 1, 2020
+
+This app version fixes bug when selecting Free Ride
+Attempts to fix crash on login.sync profile for some users
+
 ## App version 2.5.2 (233) Mar 31, 2020
 
 Fixes bug where users could not favorite a workout.
