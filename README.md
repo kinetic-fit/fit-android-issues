@@ -29,6 +29,22 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.5.5 (235) - April 13, 2020
+
+This version adds Subscription content back in for BETA. Users will see prompts for subscriptions and be able to subscribe to extra content. 
+All Custom Workouts and Importing of workouts requires a Subscription now.
+Bug fixes for the following: 
+- Bug where user deletes workout session, but session is still in history
+- Should fix FTP workout not suggesting new FTP
+- Fixes bugs in Training Plan Calendar screen that were crashing
+- Lifetime totals were not updating
+- Name edit for custom workouts fixed
+- Other bug fixes for random fatal crashes reported
+Added a new workout category of FTP Test
+Update Billing SDK
+Removes all video and Chromecast options from the app codebase
+Moves sensor service from background to foreground service.
+
 ## App version 2.5.4 (235) - April 2, 2020
 
 This version should fix the issue with interval workouts having incorrect target power in the cooldown period
