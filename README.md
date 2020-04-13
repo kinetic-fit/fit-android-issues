@@ -29,7 +29,7 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
-## App version 2.5.5 (235) - April 13, 2020
+## App version 2.5.5 (236) - April 13, 2020
 
 This version adds Subscription content back in for BETA. Users will see prompts for subscriptions and be able to subscribe to extra content. 
 All Custom Workouts and Importing of workouts requires a Subscription now.
