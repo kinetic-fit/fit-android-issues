@@ -36,8 +36,6 @@ This version fixes the name change option for Custom Workouts
 This version fixes bug in import workout
 This version removes the Kotlin-Sensors and Kinetic-SDK-Kotlin modules and imports them remotely
 
-[]
-
 ## App version 2.5.5 (236) - April 13, 2020
 
 This version adds Subscription content back in for BETA. Users will see prompts for subscriptions and be able to subscribe to extra content. 
