@@ -31,7 +31,7 @@ If you need, please review the Test Plan and Test Scenarios documents in the rep
 
 ## App version 2.5.6 (237) - April 21, 2020
 
-[bug] This version should fix issues #29, #30, #31, #32, and #34
+[bug] This version should fix issues [#29](https://github.com/kinetic-fit/fit-android-issues/issues/29) , [#30](https://github.com/kinetic-fit/fit-android-issues/issues/30), [#31](https://github.com/kinetic-fit/fit-android-issues/issues/31), [#32](https://github.com/kinetic-fit/fit-android-issues/issues/32), and [#34](https://github.com/kinetic-fit/fit-android-issues/issues/34)
 This version fixes the name change option for Custom Workouts
 This version fixes bug in import workout
 This version removes the Kotlin-Sensors and Kinetic-SDK-Kotlin modules and imports them remotely
