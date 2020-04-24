@@ -29,6 +29,9 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+##App version 2.5.7 (238) - April 24, 2020
+This version is a hotfix for any trainers that use the FTMS broadcast service, such as SmartControl 2 and inRide3. This fixes the issue where power sensor was greyed out on these devices. 
+
 ## App version 2.5.6 (237) - April 21, 2020
 
 [bug] This version should fix issues [#29](https://github.com/kinetic-fit/fit-android-issues/issues/29) , [#30](https://github.com/kinetic-fit/fit-android-issues/issues/30), [#31](https://github.com/kinetic-fit/fit-android-issues/issues/31), [#32](https://github.com/kinetic-fit/fit-android-issues/issues/32), and [#34](https://github.com/kinetic-fit/fit-android-issues/issues/34)
