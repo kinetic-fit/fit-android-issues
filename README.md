@@ -29,7 +29,12 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
-##App version 2.5.7 (238) - April 24, 2020
+## App version 2.5.8 (238) - April 24, 2020
+
+This app version has a hotfix for calibration issues on inRide3 and Smart Control 2 where the app gets stuck in spindown during calibration
+
+## App version 2.5.7 (238) - April 24, 2020
+
 This version is a hotfix for any trainers that use the FTMS broadcast service, such as SmartControl 2 and inRide3. This fixes the issue where power sensor was greyed out on these devices. 
 
 ## App version 2.5.6 (237) - April 21, 2020
