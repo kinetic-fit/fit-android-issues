@@ -29,6 +29,15 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.5.10 (240) - May 1, 2020
+
+This version fixes bug that kept users from getting all the workouts that are under subscription if they have a fit subscription.
+
+## App version 2.5.9 (239) - April 28, 2020
+
+This app version had a hot fix for Speed and Cadence Serializer.
+This version also updates the newly calculated FTP formula.
+
 ## App version 2.5.8 (238) - April 24, 2020
 
 This app version has a hotfix for calibration issues on inRide3 and Smart Control 2 where the app gets stuck in spindown during calibration
