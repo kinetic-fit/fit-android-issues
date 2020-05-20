@@ -29,6 +29,11 @@ We will do our issue communication here in order to track and organize our effor
 
 If you need, please review the Test Plan and Test Scenarios documents in the repository to ensure that you understand the requirements for testing and reporting.
 
+## App version 2.5.12 (243) - May 20, 2020
+
+Fixes issue with cadence sensors not working again.
+Adds Whats new pop up if developers need to communicate features to users.
+
 ## App version 2.5.11 (242) - May 11, 2020
 
 This app version fixes a profile crash, as well as the weird permissions loop that some first time user
